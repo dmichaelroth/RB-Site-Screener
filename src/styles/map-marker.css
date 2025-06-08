@@ -1,0 +1,12 @@
+.mapboxgl-marker {
+  cursor: pointer;
+}
+
+/* Custom marker styling */
+.custom-marker {
+  background-image: url('/marker-icon.svg');
+  background-size: cover;
+  width: 30px;
+  height: 40px;
+  cursor: pointer;
+}
